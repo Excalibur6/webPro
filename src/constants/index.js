@@ -147,7 +147,7 @@ const experiences = [
   },
   {
     title: "Project Cordinator",
-    company_name: "Prwir360",
+    company_name: "Prwire360",
     icon: Prwire360,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
